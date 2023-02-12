@@ -1,0 +1,35 @@
+int x = 1;
+print x;
+x = x-1;
+print x;
+x = x * 1;
+print x;
+x = x / 1;
+print x;
+x = x - x;
+print x; 
+x = -x;
+print x;
+
+float y = 0.1;
+print y;
+print y;
+y = y-1.;
+print y;
+y = y * 1.;
+print y;
+y = y / 1.;
+print y;
+y = y - y;
+print y; 
+y = -y;
+print y;
+
+int w = 1;
+print -w;
+float z = 0.0;
+print -z;
+z = 1.0;
+print z;
+print -z;
+

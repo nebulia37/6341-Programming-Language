@@ -1,0 +1,14 @@
+int x = 10;
+int y = -10;
+while (x == 0) {
+  x = x*y;
+}
+print x;
+
+int a = 10;
+int b = -10;
+while (x == 0) {
+  float z = 0.;
+}
+print x;
+

@@ -1,0 +1,11 @@
+int x = 1;
+{
+  float z = 0.3;
+  {
+    int z = 3;
+  }
+  {
+    float w = -x;
+  }
+}
+

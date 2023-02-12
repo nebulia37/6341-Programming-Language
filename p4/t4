@@ -1,0 +1,16 @@
+int x = 0;
+print x;
+int xx = x + 1;
+print xx;
+int xxx = -xx;
+print xxx;
+
+int y = x+5;
+float z = 0.;
+float zz = -0.5;
+
+print y;
+print z;
+print zz;
+
+print zz/z;

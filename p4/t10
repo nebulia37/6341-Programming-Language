@@ -1,0 +1,23 @@
+int x = 2;
+int y = 1;
+while (x>0) {
+print x;
+x = x - y;
+print x;
+}
+
+x = 2;
+y = 1;
+while (x > 0){
+print y;
+y = y + x;
+print y;
+}
+
+float a = 0.;
+float b = 0.;
+while (x > 0){
+print a;
+a = a * b;
+print a;
+}

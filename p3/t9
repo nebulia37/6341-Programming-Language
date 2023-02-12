@@ -1,0 +1,2 @@
+int x = readint + 7.0;
+float y = readfloat + 5. + readfloat;

@@ -1,0 +1,14 @@
+int a = 1;
+int b = 2;
+int c = 3;
+while (c < 12345) {
+  c = c * b;
+  int d = -a;
+  if (c < 54321) {
+    c = c * a;
+  } else {
+    c = c * d;
+  }
+} 
+print c;
+print a/c;

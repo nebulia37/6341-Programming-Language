@@ -1,0 +1,11 @@
+float x = 1.;
+float y = 0.;
+print x;
+  x = readfloat;
+  print x;
+print y;
+  y = readfloat;
+  print y;
+  print y;
+print y/y;
+

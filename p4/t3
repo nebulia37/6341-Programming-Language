@@ -1,0 +1,7 @@
+int x = readint;
+float y = readfloat;
+int end = 10;
+print x;
+print y;
+print 2.0/y;
+
